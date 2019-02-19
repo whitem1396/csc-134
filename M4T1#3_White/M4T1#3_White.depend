@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1550602504 source:c:\users\whitem1396\desktop\m4t1#3_white\main.cpp
+	<iostream>
+	"sharealike.h"
+
+1550602510 c:\users\whitem1396\desktop\m4t1#3_white\sharealike.h
+
+1550602504 source:c:\users\whitem1396\desktop\m4t1#3_white\sharealike.cpp
+	<iostream>
+	"sharealike.h"
+
