@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1550602071 source:c:\users\whitem1396\desktop\m4t1#2_white\main.cpp
+	<iostream>
+	"safestuff.h"
+
+1550602071 c:\users\whitem1396\desktop\m4t1#2_white\safestuff.h
+
+1550602071 source:c:\users\whitem1396\desktop\m4t1#2_white\safestuff.cpp
+	<iostream>
+
