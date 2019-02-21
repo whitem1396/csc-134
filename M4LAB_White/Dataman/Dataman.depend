@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1550775053 source:c:\users\whitem1396\desktop\m4lab_white\dataman\arithmetic.c
+
+1550777550 source:c:\users\whitem1396\desktop\m4lab_white\dataman\main.cpp
+	<iostream>
+	"Arithmetic.h"
+
+1550777759 c:\users\whitem1396\desktop\m4lab_white\dataman\arithmetic.h
+
+1550777341 source:c:\users\whitem1396\desktop\m4lab_white\dataman\arithmetic.cpp
+
