@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1551809021 source:c:\users\whitem1396\desktop\dataman\arithmetic.cpp
+
+1551814480 source:c:\users\whitem1396\desktop\dataman\temperature.cpp
+	<iostream>
+	"Arithmetic.h"
+
+1551809021 c:\users\whitem1396\desktop\dataman\arithmetic.h
+
+1551814480 source:c:\users\whitem1396\desktop\dataman\main.cpp
+	<iostream>
+	"Arithmetic.h"
+
