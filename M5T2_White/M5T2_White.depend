@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1551982459 source:c:\users\whitem1396\desktop\m5t2_white\main.cpp
+	<iostream>
+	"Pen.h"
+
+1551982269 c:\users\whitem1396\desktop\m5t2_white\pen.h
+
+1551982398 source:c:\users\whitem1396\desktop\m5t2_white\pen.cpp
+	<iostream>
+	"Pen.h"
+
