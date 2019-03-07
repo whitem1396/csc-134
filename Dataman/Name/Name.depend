@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1551986107 source:c:\users\whitem1396\desktop\name\arithemtic.cpp
+	<iostream>
+	"Arithmetic.h"
+
+1551984265 c:\users\whitem1396\desktop\name\arithmetic.h
+
+1551985591 source:c:\users\whitem1396\desktop\name\main.cpp
+	<iostream>
+	"Arithmetic.h"
+
+1551986139 source:c:\users\whitem1396\desktop\name\temperature.cpp
+	<iostream>
+
+1551985926 source:c:\users\whitem1396\desktop\name\menu.cpp
+	<iostream>
+	"Arithmetic.h"
+	"Temperature.h"
+
+1551984265 c:\users\whitem1396\desktop\name\temperature.h
+
